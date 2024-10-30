@@ -1,13 +1,14 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+[![Generate Stats Images](https://github.com/h3ct0rjs/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/h3ct0rjs/github-stats/actions/workflows/main.yml)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/h3ct0rjs/github-stats">
+<img src="https://github.com/h3ct0rjs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/h3ct0rjs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/h3ct0rjs/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/h3ct0rjs/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
